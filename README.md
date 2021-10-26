@@ -1,1 +1,2 @@
 # VS_Code_Exercise
+For you to figure out: stage, add a commit message, commit, and push the changes to your Github Repo. Hint: there should be a "1" or "2" that has popped up on the left side of your screen on one of the vertical tabs! This indicates that your local repo is different than the original Github repo you created. Clicking on it should set you up to complete the required steps (also Google is your friend).
